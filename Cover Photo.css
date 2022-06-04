@@ -1,4 +1,4 @@
-[data-document-tags~="testing"]::before {
+[data-document-tags~="Testing"]::before {
 	content: "https://i.imgur.com/Kh6dU5k.jpg";
 	display: block;
 	height: 400px;
